@@ -1,0 +1,28 @@
+body { 
+	padding-top: 70px; 
+	background: url('circuits_board.jpg');
+}
+
+#boraheader {
+	font-size:25px;
+}
+
+#navbar-links {
+	font-size:20px;
+}
+
+#borapic {
+	
+}
+
+#contactinfo {
+	position:relative;
+	padding-top:20px;
+	padding-left:60px;
+}
+
+#summary {
+	position:relative;
+	padding-top:20px;
+	padding-left:60px;
+}
